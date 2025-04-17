@@ -1,0 +1,1 @@
+log_source,timestamp,pid,severity,component,message,is_anomaly,severity_encoded,component_encoded,predicted_anomaly,priority,malicious_activity
